@@ -195,8 +195,7 @@ if "chat_history" not in st.session_state:
 QUICK_ACTIONS = {
     "📦  Track my order": "I'd like to track my order.",
     "💳  Check payment status": "Can you check the payment status of my order?",
-    "❌  Cancel an order": "I want to cancel my order.",
-    "🙋  Talk to a human": "I'd like to speak with a human support agent.",
+    "❌  Cancel an order": "I want to cancel my order.",    
 }
 
 with st.sidebar:
