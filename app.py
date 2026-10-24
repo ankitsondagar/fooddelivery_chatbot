@@ -174,7 +174,7 @@ support_agent = create_react_agent(
 # ---------------------------------------------------------------------------
 # Session state
 # ---------------------------------------------------------------------------
-WELCOME_TEXT = "Hello! Welcome to FoodHub Support. How can I help you with your order today?"
+WELCOME_TEXT = "Hello! Welcome to FoodHub Support. How can I help you with your order?"
 USER_AVATAR = "🧑"
 BOT_AVATAR = "🍔"
 
